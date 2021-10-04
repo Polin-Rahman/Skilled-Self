@@ -1,0 +1,14 @@
+.description-container{
+    overflow: hidden;
+    margin-top:20px;
+}
+.img-service{
+    width:400px;
+    margin-left:70px;
+}
+
+.container-details i{
+color:#2EB67D;
+font-size:25px;
+margin-right: 15px;
+}

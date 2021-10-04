@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "courseName": "Microsoft Excel",
+        "instructor": "Olivia Emma",
+        "price": 20,
+        "img": "https://image.flaticon.com/icons/png/512/1088/1088593.png"
+    },
+    {
+        "id": 2,
+        "courseName": "Microsoft PowerPoint",
+        "instructor": "James Benjamin",
+        "price": 18,
+        "img": "https://image.flaticon.com/icons/png/512/888/888924.png"
+    },
+    {
+        "id": 3,
+        "courseName": "Microsoft Word",
+        "instructor": "Alexander Henry",
+        "price": 15,
+        "img": "https://image.flaticon.com/icons/png/512/888/888933.png"
+    },
+    {
+        "id": 4,
+        "courseName": "Adobe Illustrator",
+        "instructor": "Michael Mason",
+        "price": 25,
+        "img": "https://image.flaticon.com/icons/png/512/541/541608.png"
+    }
+]

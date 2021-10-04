@@ -4,6 +4,7 @@ import { useState } from 'react';
 import './Courses.css';
 
 const Courses = () => {
+    //courses component 
     const [courses, setCourses] = useState([]);
 
     useEffect(() => {
@@ -14,7 +15,7 @@ const Courses = () => {
 
     return (
         <div className="container w-75 my-5">
-            <h3 className="text-center my-3">Our Servises</h3>
+            <h1 className="text-center my-5">Our Servises</h1>
             {
                 courses.map((course) => (
                     <div className="card mb-3">

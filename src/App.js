@@ -5,15 +5,16 @@ import {
   Switch,
   Route,
 } from "react-router-dom"
-import MenuBar from './components/MenuBar/MenuBar';
 import About from './components/About/About';
 import Services from './components/Services/Services';
 import Contact from './components/Contact/Contact';
 import Footer from './components/Footer/Footer';
 import Home from './components/Home/Home';
 import NotFound from './components/NotFound/NotFound';
+import MenuBar from './components/MenuBar/MenuBar';
 
 function App() {
+  //react router used
   return (
     <div>
       <Router>

@@ -1,0 +1,22 @@
+.contact-containar{
+    margin-top: 100px;
+    display:flex;
+}
+.contact-containar img{
+    width:500px;
+    margin-left: 150px;
+}
+.contact-steps i{
+    color:#494BF5;
+    font-size:25px;
+    margin-right: 15px;
+}
+.contact-steps{
+    margin-top:40px;
+    margin-right: 70px;
+}
+.contact-steps-texts{
+    margin-left: 100px;
+    margin-top: 80px;
+    display:flex;
+}

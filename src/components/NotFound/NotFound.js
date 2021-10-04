@@ -1,9 +1,13 @@
 import React from 'react';
+import './NotFound.css';
+import errorGif from '../../images/giphy.gif';
 
 const NotFound = () => {
+    //error 404
     return (
-        <div>
-            <h3>Page not found</h3>
+        <div className="error-container">
+            <h1 className="">Error 404 - Page not found ... Opps!</h1>
+            <img className="error-img" src={errorGif} alt="" />
         </div>
     );
 };

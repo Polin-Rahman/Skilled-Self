@@ -1,9 +1,16 @@
 .footer-container{
     color:white;
     background:#212529;
-    padding:10px;
-    position: fixed;
+    padding:20px;
+    overflow:hidden;
+}
+.footer-btn{
+    margin-top:10px;
+    margin-left: 200px ;
+}
+/* 
+position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-}
+ */
