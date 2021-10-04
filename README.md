@@ -1,4 +1,4 @@
-# Skilled-Self
+# Skilled-Self - educational based website
 ### Live Site:
 #### Overview:
 
