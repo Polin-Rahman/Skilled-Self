@@ -15,7 +15,7 @@ const HomeService = () => {
     return (
         <div>
             <div className="container w-75 my-5">
-                <h1 className="text-center my-5">Our Servises</h1>
+                <h1 className="text-center my-5">Our Services</h1>
                 {
                     courses.map((course) => (
                         <div className="card mb-3">
