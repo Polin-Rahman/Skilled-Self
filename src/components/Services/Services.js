@@ -1,9 +1,10 @@
 import React from 'react';
+import Courses from '../Courses/Courses';
 
 const Services = () => {
     return (
         <div>
-            <h2>Services page</h2>
+            <Courses></Courses>
         </div>
     );
 };

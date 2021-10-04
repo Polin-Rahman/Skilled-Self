@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "courseName": "Microsoft Excel",
+    "instructor": "Olivia Emma",
+    "price": 20,
+    "img": "https://image.flaticon.com/icons/png/512/1088/1088593.png"
+  },
+  {
+    "id": 2,
+    "courseName": "Microsoft PowerPoint",
+    "instructor": "James Benjamin",
+    "price": 18,
+    "img": "https://image.flaticon.com/icons/png/512/888/888924.png"
+  },
+  {
+    "id": 3,
+    "courseName": "Microsoft Word",
+    "instructor": "Alexander Henry",
+    "price": 15,
+    "img": "https://image.flaticon.com/icons/png/512/888/888933.png"
+  },
+  {
+    "id": 4,
+    "courseName": "Adobe Illustrator",
+    "instructor": "Michael Mason",
+    "price": 25,
+    "img": "https://image.flaticon.com/icons/png/512/541/541608.png"
+  },
+  {
+    "id": 5,
+    "courseName": "Adobe Photoshop",
+    "instructor": "Sophia Charlotte",
+    "price": 27,
+    "img": "https://image.flaticon.com/icons/png/512/726/726104.png"
+  },
+  {
+    "id": 6,
+    "courseName": "Adobe XD",
+    "instructor": "Daniel Rov",
+    "price": 22,
+    "img": "https://image.flaticon.com/icons/png/512/730/730997.png"
+  },
+  {
+    "id": 7,
+    "courseName": "Personal grooming",
+    "instructor": "Nora Hazel",
+    "price": 12,
+    "img": "https://image.freepik.com/free-vector/business-avatars-set_98292-1467.jpg"
+  },
+  {
+    "id": 8,
+    "courseName": "Public Speaking ",
+    "instructor": "Paisley Lucy",
+    "price": 13,
+    "img": "https://image.flaticon.com/icons/png/512/1006/1006519.png"
+  },
+  {
+    "id": 9,
+    "courseName": "Financial Management",
+    "instructor": "Aiden John",
+    "price": 17,
+    "img": "https://image.freepik.com/free-vector/crowdfunding-abstract-concept_335657-3028.jpg"
+  },
+  {
+    "id": 10,
+    "courseName": "Time Management",
+    "instructor": "Annvi Evy",
+    "price": 16,
+    "img": "https://image.freepik.com/free-vector/man-holding-clock-time-management-concept_23-2148823171.jpg"
+  }
+]

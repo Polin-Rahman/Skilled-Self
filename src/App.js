@@ -4,7 +4,6 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
 } from "react-router-dom"
 import MenuBar from './components/MenuBar/MenuBar';
 import About from './components/About/About';
@@ -19,7 +18,6 @@ function App() {
     <div>
       <Router>
         <MenuBar></MenuBar>
-        <Footer></Footer>
         <Switch>
           <Route exact path="/">
             <Home></Home>
@@ -40,6 +38,7 @@ function App() {
             <NotFound></NotFound>
           </Route>
         </Switch>
+        <Footer></Footer>
       </Router>
     </div>
   );
