@@ -14,7 +14,7 @@ import NotFound from './components/NotFound/NotFound';
 import MenuBar from './components/MenuBar/MenuBar';
 
 function App() {
-  //react router used
+  //react router used for navigation
   return (
     <div>
       <Router>
