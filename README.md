@@ -1,5 +1,5 @@
 # Skilled-Self - educational based website
-### Live Site:
+### Live Site: https://assignment-9-educational-website.netlify.app/
 #### Overview:
 
   * It's a skill development-based educational website.
