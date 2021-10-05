@@ -1,9 +1,13 @@
 .about-containar{
-    margin-top: 100px;
+    margin-top: 60px;
     display:flex;
 }
+.about-containar img{
+    padding:70px;
+}
 .about-text{
-    margin-left: 150px;
+    margin-top: 90px;
+    margin-left: 100px;
 }
 .about-text-details{
     width: 500px;

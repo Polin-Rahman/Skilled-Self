@@ -3,8 +3,8 @@
     display:flex;
 }
 .contact-containar img{
-    width:500px;
-    margin-left: 150px;
+    width:450px;
+    margin-left: 100px;
 }
 .contact-steps i{
     color:#494BF5;
@@ -13,7 +13,7 @@
 }
 .contact-steps{
     margin-top:40px;
-    margin-right: 70px;
+    margin-right: 120px;
 }
 .contact-steps-texts{
     margin-left: 100px;
